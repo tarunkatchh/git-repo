@@ -1,4 +1,4 @@
 # Header
 Notes
 ## Subheader
-These are the *imp* points.
+These are the **imp** points.
